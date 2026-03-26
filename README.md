@@ -17,7 +17,7 @@ O objetivo central desta pesquisa é desenvolver e validar um modelo de **Inteli
 
 ## 🛠️ Stack Tecnológico
 O desenvolvimento baseia-se nas seguintes linguagens e bibliotecas:
-- **Linguagem:** Python 3.x
+- **Linguagem:** Python 3.11
 - **Visão Computacional:** OpenCV / MediaPipe
 - **Machine Learning / Deep Learning:** TensorFlow com Keras
 - **Processamento de Dados:** NumPy, Pandas
